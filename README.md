@@ -1,2 +1,3 @@
 # TabNewsNEW
-Firsts  steps on curso.dev
+
+Firsts steps on curso.dev
