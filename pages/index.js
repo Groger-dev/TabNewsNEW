@@ -1,8 +1,7 @@
 function Home() {
   return (
     <h1>
-      De Gustavo para Lívia, meu amor!Oiieeee amor! Passando pra dizer que te
-      amo muuuuuuuuuuuuuuuuuuuuito!!! Tamlooooooooo!!S2
+      Oi meu amor! Feliz 0.9 ❤️‍🔥 Te amo muuuuuuuuuuito!!! Tamlooooooooo + 50x
     </h1>
   );
 }
